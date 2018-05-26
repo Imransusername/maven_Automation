@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="maven(failed)">
+    <classes>
+      <class name="Day11_05122018.Action_Item8">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="testScenario"/>
+          <include name="openDriver"/>
+        </methods>
+      </class> <!-- Day11_05122018.Action_Item8 -->
+    </classes>
+  </test> <!-- maven(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->
